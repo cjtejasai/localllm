@@ -1,6 +1,8 @@
 README
 ======
 
+This project is a FastAPI application to fetch and edit news articles using DuckDuckGo and AI models.
+
 Setup Instructions
 ------------------
 
